@@ -11,10 +11,6 @@ A full-stack Event Booking Web Application built using:
 
 ---
 
-# 🚀 Live Demo
-
-Frontend: https://your-frontend-url.onrender.com  
-Backend: https://your-backend-url.onrender.com
 
 ---
 
@@ -229,11 +225,3 @@ Full Stack Developer
 
 ---
 
-# ✅ After Creating README
-
-Run:
-
-```bash
-git add README.md
-git commit -m "added README"
-git push
