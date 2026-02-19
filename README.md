@@ -87,8 +87,7 @@ http://localhost:5173
 ```
 
 🗄 Database Setup (MySQL)
-🔹 Option 1 — Local MySQL
-
+ Local MySQL
 Create database:
 
 CREATE DATABASE event_booking;
