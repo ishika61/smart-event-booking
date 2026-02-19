@@ -3,9 +3,7 @@
 A full-stack Event Booking Web Application built using:
 
 - ⚛ React (Vite)
-- 🟢 Node.js + Express
-- 🗄 MySQL (Railway)
-- ☁ Render Deployment
+- 🟢 Node.js + Express,MYsql,Socket.io
 - 🔐 JWT Authentication
 - 🔄 Real-time Seat Locking (WebSocket)
 
