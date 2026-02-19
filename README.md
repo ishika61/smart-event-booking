@@ -121,55 +121,6 @@ CREATE TABLE bookings (
   FOREIGN KEY (event_id) REFERENCES events(id) ON DELETE CASCADE
 );
 ````
-🔹 Option 2 — Railway Cloud MySQL (Production)
-````
-Go to https://railway.app
-
-Create new project
-Add MySQL service
-Copy MYSQL_URL
-````
-In Render → Backend → Environment Variables add:
-````
-PORT=10000
-NODE_ENV=production
-DATABASE_URL=<paste MYSQL_URL here>
-JWT_SECRET=supersecretkey123
-JWT_EXPIRES=1h
-````
-🌐 Deployment (Render)
-🔹 Deploy Backend
-
-Create Web Service in Render
-Root Directory: server
-Build Command:
-```
-npm install
-```
-
-Start Command:
-```
-npm start
-
-```
-Add environment variables as shown above.
-
-🔹 Deploy Frontend
-
-Create Static Site in Render
-
-Root Directory: 
-```
-client
-````
-Build Command:
-```````
-npm install && npm run build
-````````
-
-Publish Directory:
-
-dist
 
 🔐 Admin Login
 
