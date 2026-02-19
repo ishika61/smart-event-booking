@@ -11,8 +11,7 @@ A full-stack Event Booking Web Application built using:
 
 ---
 Demo video 
-https://drive.google.com/file/d/1ylcxQLDZruunoA5fr0_iwcAqVPn1C87q/view?usp=drivesdk
-
+https://drive.google.com/file/d/1ylcxQLDZruunoA5fr0_iwcAqVPn1C87q/view?usp=sharing
 ---
 
 # 📁 Project Structure
