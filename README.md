@@ -143,6 +143,8 @@ To build production version:
 ```
 cd client
 npm run build
+npm run preview
+
 ```
 🛠 Tech Stack
 
