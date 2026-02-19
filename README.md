@@ -10,7 +10,8 @@ A full-stack Event Booking Web Application built using:
 - 🔄 Real-time Seat Locking (WebSocket)
 
 ---
-
+Demo video 
+https://drive.google.com/file/d/1ylcxQLDZruunoA5fr0_iwcAqVPn1C87q/view?usp=drivesdk
 
 ---
 
